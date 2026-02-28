@@ -1,2 +1,9 @@
 langgraph
 openai
+chromadb 
+sentence-transformers
+python-dotenv
+transformers 
+torch 
+huggingface_hub 
+tree_sitter
